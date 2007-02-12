@@ -1,5 +1,5 @@
 Summary:	X.org video driver for SGI Indy's and Indigo2's Newport video cards
-Summary(pl):	Sterownik obrazu X.org dla kart graficznych Newport w SGI Indy i Indigo2
+Summary(pl.UTF-8):   Sterownik obrazu X.org dla kart graficznych Newport w SGI Indy i Indigo2
 Name:		xorg-driver-video-newport
 Version:	0.2.1
 Release:	0.1
@@ -26,8 +26,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 X.org video driver for Newport (also called XL) video cards used in
 SGI Indy and Indigo2 machines.
 
-%description -l pl
-Sterownik obrazu X.org dla kart graficznych Newport (zwanych takøe XL)
+%description -l pl.UTF-8
+Sterownik obrazu X.org dla kart graficznych Newport (zwanych tak≈ºe XL)
 w komputerach SGI Indy i Indigo2.
 
 %prep
