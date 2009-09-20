@@ -1,12 +1,12 @@
 Summary:	X.org video driver for SGI Indy's and Indigo2's Newport video cards
 Summary(pl.UTF-8):	Sterownik obrazu X.org dla kart graficznych Newport w SGI Indy i Indigo2
 Name:		xorg-driver-video-newport
-Version:	0.2.1
-Release:	4
+Version:	0.2.3
+Release:	1
 License:	MIT
 Group:		X11/Applications
 Source0:	http://xorg.freedesktop.org/releases/individual/driver/xf86-video-newport-%{version}.tar.bz2
-# Source0-md5:	2bd8e5b9ea68e0dcd80dfcaca0eff82c
+# Source0-md5:	923baa1ee0429f03ed19ec0be6a4f62b
 URL:		http://xorg.freedesktop.org/
 BuildRequires:	autoconf >= 2.57
 BuildRequires:	automake
